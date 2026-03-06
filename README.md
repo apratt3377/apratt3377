@@ -1,4 +1,4 @@
-## Hi I'm Angela Pratt 👋 | Software Engineer @ Kinexys, JP Morgan
+## Hi I'm Angela Pratt 👋 | Lead Software Engineer @ Kinexys, JP Morgan
 
 I'm a Backend Software Engineer specializing in **Blockchain**, **Distributed Systems**, and **Microservice Architecture**.
 
